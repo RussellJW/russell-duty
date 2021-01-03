@@ -1,0 +1,21 @@
+Locales['en'] = {
+   ['duty'] = 'Go On / Off duty',
+   ['duty_select'] = 'Do you want to go On/Off duty?',
+   ['leave'] = 'Leave job.',
+   ['yes'] = 'Yes',
+   ['no'] = 'No',
+   ['onduty'] = 'Go On duty',
+   ['offduty'] = 'Go Off duty.',
+   ['press_open'] = 'Press ~INPUT_CONTEXT~ to open menu.',
+   ['log_in'] = 'Logging in to the service ...',
+   ['log_off'] = 'Logging out of service ...',
+   ['leave_true'] = 'You are signing your resignation ...',
+   ['leave_menu'] = 'Do you want to resign?',
+   ['duty_menu'] = 'What do you want?',
+   ['on_success'] = 'You have logged in.',
+   ['off_success'] = 'You have unsubscribed from the service.',
+   ['on_duty'] = 'went on duty.',
+   ['off_duty'] = 'went off duty.',
+   ['resign'] = 'signed resignation', 
+	
+}
