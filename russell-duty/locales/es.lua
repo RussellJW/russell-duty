@@ -1,0 +1,21 @@
+Locales['es'] = {
+   ['duty'] = 'Entrar / Salir de servicio',
+   ['duty_select'] = 'Quieres Entrar/Salir de servicio?',
+   ['leave'] = 'Renunciar a trabajo.',
+   ['yes'] = 'Si',
+   ['no'] = 'No',
+   ['onduty'] = 'Entrar de servicio',
+   ['offduty'] = 'Salir de servicio.',
+   ['press_open'] = 'Presiona ~INPUT_CONTEXT~ para abrir el menu.',
+   ['log_in'] = 'Registrando servicio...',
+   ['log_off'] = 'Registrando salida de servicio...',
+   ['leave_true'] = 'Estas firmando tu renuncia...',
+   ['leave_menu'] = 'Quieres renunciar?',
+   ['duty_menu'] = 'Que deseas?',
+   ['on_success'] = 'Te has logeado.',
+   ['off_success'] = 'Subscripcion finalizada.',
+   ['on_duty'] = 'Entro de servicio.',
+   ['off_duty'] = 'Salio de servicio.',
+   ['resign'] = 'Firmo su renuncia', 
+	
+}
